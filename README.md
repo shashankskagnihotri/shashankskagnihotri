@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankskagnihotri&show_icons=true&theme=transparent&count_private=True&include_orgs=automl)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankskagnihotri&show_icons=true&theme=transparent&count_private=True&include_orgs=[automl](https://github.com/automl))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankskagnihotri&count_private=True&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
