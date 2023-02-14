@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/shashankskagnihotri?label=Follow&style=social)](https://github.com/shashankskagnihotri)
 [![Google Scholar](https://img.shields.io/static/v1?logo=googlescholar&label=Google%20Scholar&message=%20Profile&color=blue)](https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en)
+[![Source](https://img.shields.io/static/v1?logo=github&label=Source&message=%20&color=white)](https://github.com/rickstaa/rickstaa/blob/main/README.md)
 
 I'm a first year PhD student at [University of Siegen](https://www.uni-siegen.de/start/), working in the [Visual Computing Group](https://www.vc.informatik.uni-siegen.de/en/home) headed by [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). I work on robustness in Neural Networks, and Neural Architecture Search.
 <!-- Light Mode -->
@@ -23,6 +24,7 @@ I'm a first year PhD student at [University of Siegen](https://www.uni-siegen.de
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashankskagnihotri&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=transparent#gh-dark-mode-only" alt="Shashank's Github stats" />
 </a>
 </div>
+
 <!--
 **shashankskagnihotri/shashankskagnihotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,4 +40,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### Hi there 👋
 --> 
-<sup>Alteration of REAME.md from [rickstaa](https://github.com/rickstaa)</sup>
+
