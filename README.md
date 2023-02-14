@@ -1,8 +1,8 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankskagnihotri&show_icons=true&theme=radical&count_private=True)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankskagnihotri&show_icons=true&theme=transparent&count_private=True)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankskagnihotri&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankskagnihotri&count_private=True&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shashankskagnihotri&theme=dark&background=000000&count_private=True)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shashankskagnihotri&theme=transparent&count_private=True)](https://git.io/streak-stats)
 <!--
 **shashankskagnihotri/shashankskagnihotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
