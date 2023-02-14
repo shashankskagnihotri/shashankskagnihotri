@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### Hi there 👋
 --> 
+<sub><sup>Alteration of REAME.md from [rickstaa](https://github.com/rickstaa)</sup></sub>
