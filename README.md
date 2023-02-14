@@ -1,6 +1,7 @@
 Hi 👋 I'm [Shashank Agnihotri](https://www.vc.informatik.uni-siegen.de/en/agnihotri-shashank)
 
 [![Github](https://img.shields.io/github/followers/shashankskagnihotri?label=Follow&style=social)](https://github.com/shashankskagnihotri)
+[![Google Scholar](https://img.shields.io/endpoint?url=https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en&style=social&logo=#4285F4)](https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en)
 <!-- Social button 1 -->
 <!-- Light Mode -->
 <div>
