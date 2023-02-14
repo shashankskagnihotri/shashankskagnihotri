@@ -1,17 +1,7 @@
-Hi 👋 I'm [Shashank Agnihotri](https://www.vc.informatik.uni-siegen.de/en/agnihotri-shashank)
+## Hi 👋 I'm [Shashank Agnihotri](https://www.vc.informatik.uni-siegen.de/en/agnihotri-shashank)
 
 [![Github](https://img.shields.io/github/followers/shashankskagnihotri?label=Follow&style=social)](https://github.com/shashankskagnihotri)
-[![Google Scholar](https://img.shields.io/endpoint?url=https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en&style=social&logo=#4285F4)](https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en)
-<!-- Social button 1 -->
-<!-- Light Mode -->
-<div>
-<a href="https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en)#gh-light-mode-only">
-<img src="https://img.shields.io/endpoint?url=https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en&style=social&logo=#4285F4" alt="Google Scholar Profile">
-</a>
-<!-- Dark Mode -->
-<a href="https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en#gh-dark-mode-only">
-<img src="https://img.shields.io/endpoint?url=https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en&style=social&logo=#4285F4" alt="Google Scholar Profile">
-</a>
+[![Google Scholar](https://img.shields.io/endpoint?url=https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en&style=social)](https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en)
 
 I'm a first year PhD student at [University of Siegen](https://www.uni-siegen.de/start/), working in the [Visual Computing Group](https://www.vc.informatik.uni-siegen.de/en/home) headed by [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). I work on robustness in Neural Networks, and Neural Architecture Search.
 <!-- Light Mode -->
