@@ -1,3 +1,18 @@
+Hi 👋 I'm [Shashank Agnihotri](https://www.vc.informatik.uni-siegen.de/en/agnihotri-shashank)
+
+[![Github](https://img.shields.io/github/followers/shashankskagnihotri?label=Follow&style=social)](https://github.com/shashankskagnihotri)
+<!-- Social button 1 -->
+<!-- Light Mode -->
+<div>
+<a href="https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en)#gh-light-mode-only">
+<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=#4285F4&labelColor=000&color=3572A5#gh-light-mode-only" alt="Google Scholar Profile">
+</a>
+<!-- Dark Mode -->
+<a href="https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en#gh-dark-mode-only">
+<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=#4285F4&labelColor=000&color=FFF#gh-dark-mode-only" alt="Google Scholar Profile">
+</a>
+
+I'm a first year PhD student at [University of Siegen](https://www.uni-siegen.de/start/), working in the [Visual Computing Group](https://www.vc.informatik.uni-siegen.de/en/home) headed by [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). I work on robustness in Neural Networks, and Neural Architecture Search.
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
