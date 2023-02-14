@@ -2,7 +2,7 @@
 
 https://github-readme-streak-stats.herokuapp.com/?user=shashankskagnihotri
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?shashankskagnihotri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=shashankskagnihotri)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shashankskagnihotri/shashankskagnihotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
