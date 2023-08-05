@@ -4,7 +4,7 @@
 [![Google Scholar](https://img.shields.io/static/v1?logo=googlescholar&label=Google%20Scholar&message=%20Profile&color=blue)](https://scholar.google.com/citations?user=vhm_xu8AAAAJ&hl=en)
 [![Source](https://img.shields.io/static/v1?logo=github&label=Source&message=%20&color=white)](https://github.com/rickstaa/rickstaa/blob/main/README.md)
 
-I'm a second year PhD student at [University of Siegen](https://www.uni-siegen.de/start/), working in the [Visual Computing Group](https://www.vc.informatik.uni-siegen.de/en/home) headed by [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). I work on robustness in Neural Networks, and Neural Architecture Search.
+I'm a second-year Ph.D. student at [University of Siegen](https://www.uni-siegen.de/start/), working in the [Visual Computing Group](https://www.vc.informatik.uni-siegen.de/en/home) headed by [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). I work on robustness of Neural Networks, and Neural Architecture Search.
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
