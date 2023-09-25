@@ -5,6 +5,9 @@
 [![Source](https://img.shields.io/static/v1?logo=github&label=Source&message=%20&color=white)](https://github.com/rickstaa/rickstaa/blob/main/README.md)
 
 I'm a second-year Ph.D. student at [University of Siegen](https://www.uni-siegen.de/start/), working in the [Visual Computing Group](https://www.vc.informatik.uni-siegen.de/en/home) headed by [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret). I work on robustness of Neural Networks, and Neural Architecture Search.
+
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">Had a great experience at <a href="https://twitter.com/gcpr2023?ref_src=twsrc%5Etfw">@gcpr2023</a> Heidelberg, and met many amazing researchers. <br>Looking forward to GCPR2024 in Munich next year! :D <a href="https://t.co/y6ivi1X28m">pic.twitter.com/y6ivi1X28m</a></p>&mdash; Shashank Agnihotri (@shashankska) <a href="https://twitter.com/shashankska/status/1706257431850897802?ref_src=twsrc%5Etfw">September 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
